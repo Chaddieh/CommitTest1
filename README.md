@@ -12,3 +12,6 @@ Add: New addition.
 
 Test for branch.
 >>>>>>> Stashed changes
+
+
+More changes.
